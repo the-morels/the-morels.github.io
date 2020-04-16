@@ -57,20 +57,20 @@ plugins:
 
 author:
   name   : "Alex Morel"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Nouvel arrivant chez Code Lutin"
+  avatar : "/assets/images/free_as_a_bird_amorel.gif"
+  bio    : "Dev à Code Lutin"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/alex_morel_"
     - label: "CV"
-      icon: "fas fa-fw fa-file"
+      icon: "fas fa-fw fa-file-user"
       url: "https://www.doyoubuzz.com/alex-lagarde"   
     - label: "Soundcloud"
       icon: "fas fa-fw fa-soundcloud"
       url: "https://soundcloud.com/user-651566508"
     - label: "Forkez ce site!"
-      icon: "fas fa-fw fa-github"
+      icon: "fab fa-soundcloud"
       url: "/forkme/"
 
 footer:
@@ -78,18 +78,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/alex_morel_"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/alexsedlex"
-    - label: "Code Lutin (site web)"
-      icon: "fas fa-fw fa-link"
-      url: "https://codelutin.com"  
     - label: "CV"
-      icon: "fas fa-fw fa-file"
+      icon: "fas fa-fw fa-file-user"
       url: "https://www.doyoubuzz.com/alex-lagarde"   
     - label: "Soundcloud"
       icon: "fas fa-fw fa-soundcloud"
       url: "https://soundcloud.com/user-651566508"
+    - label: "Forkez ce site!"
+      icon: "fab fa-soundcloud"
+      url: "/forkme/"
 
 defaults:
   # _posts

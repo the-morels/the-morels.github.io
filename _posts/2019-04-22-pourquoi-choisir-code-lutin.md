@@ -1,0 +1,50 @@
+---
+title: "Pourquoi j'ai choisi Code Lutin ?"
+date: 2020-04-22T20:34:30-04:00
+categories:
+  - linux
+---
+Bienvenue sur ce blog !
+
+Dans quelques jours, je rejoins les équipes de [Code Lutin](https://codelutin.com) (je travaillais depuis 6 ans en tant que CTO d'iRéalité - [tout est détaillé là](/about/). Il me semble intéressant, en guise de premier article et pour qu'on apprenne à se connaitre, de revenir sur les raisons qui m'ont poussées à rejoindre Code Lutin, et par la même le [réseau Libre-Entreprise](http://www.libre-entreprise.org/) et [Alliance Libre](http://www.alliance-libre.org/), entre autres associations auxqulles participe Code Lutin.
+
+Mon objectif avec ce post est de vous amener, vous, lecteur que je suppose développeur, à vous interroger sur certains aspects de nos conditions de travail et à la finalité ce que nous produisons. Je vais essayer de rester concis, et de m'en tenir aux réflexions qui me semblent applicables à d'autres personnes, même si dans ce genre de choix de carrière beaucoup de facteurs plus personnels entrent évidemment en jeux.
+
+Disclaimer : il est certain que je changerais d'avis sur bien des points que j'aborde ici, mais justement je pense que c'est le moment rêvé pour écrire cet article, tant que je suis nimbé de l'ignorance des profanes :)
+
+Bonne lecture, n'hésitez pas à [suivre le tutoriel pour forker ce blog](/forkme/) si le design vous plait, et à me faire part de vos retours sur cet article.
+
+# Marre des pyramides
+Mon désir de rejoindre Code Lutin part avant tout de ma propre expérience du monde du travail. J'y ai été tour à tour subordonné ou chef d'équipe, et même si je prends un énorme plaisir à transmettre mes connaissances ou à aspirer celles des collègues en les harcelant de question, j'ai toujours trouvé certains aspects du fonctionnement hiérarchique d'une entreprise "classique" un peu contradictoires :
+* on bosse en équipe tout au long de l'année, pourtant à chaque entretien il faut défendre son bout de gras pour négocier son salaire individuellement. J'ai toujours été très géné à l'idée de gagner plus que mes collègues en tant que CTO, alors que pour moi ils travaillent au moins aussi dur que moi et sont au moins aussi compétents. L'inverse est vrai : j'ai toujours eu du mal avec les directeurs ou chefs d'équipe qui se rémunèrent royalement sans que cela soit justifié selon moi en terme d'activité (ok ils rapportent les contrats, mais il faut les faire derrière ^^)
+* corrolaire de la différence de salaire : on a tendance à avoir des dynamiques hiérarchiques de type "sachants" et des "apprenants" (alors que ça dépend toujours des domaines, il est rare qu'un junior n'ait pas aussi des choses à apprendre aux seniors). Résultat : un savoir qui aurait pu être partagé ne l'est pas parce qu'un junior n'a pas osé parlé du super framework qu'il a testé
+* l'équipe dirigeante affirme être à l'écoute de toutes les suggestions, et l'intention peut être vraiment là, mais de facto une seule personne a le dernier mot (qu'il s'agisse de décisions commerciales, stratégiques, techniques)
+* les intérêts des salairés et les intérêts des entreprises ne sont pas forcément identiques, voir sont opposés. Frédéric Lordon parle d'[Angle Alpha](https://www.youtube.com/watch?v=87sEeVj057Q) pour désigner l'écart entre les souhaits/intérêts d'un employé et ceux de l'entreprise
+* les salariés qui n'ont pas accès aux chiffres et à la comptabilité de la boite peuvent se dé-responsabiliser car n'ayant pas les élements pour 
+
+C'est entre autres pour ces raisons que j'ai été séduit par le modèle d'[entreprise libre](http://www.libre-entreprise.org/), qui s'appuie sur des principes et des engagements permettant sur le papier d'éviter ces accueils (c'est ce que je viens vérifier chez Code Lutin):
+* Démocratie
+** prise des grandes décisions par l'ensemble des participants, 1 personne = 1 voix
+** répartition équilibré du capital: Code Lutin pousse se principe à fond en proposant une égalite stricte des salaires, peu importe votre expérience, votre sexe, votre compétence
+* Transparence : chaque membre de l'équipe a accès à toutes les informations de l'entreprise : comptabilité, montants des contrats etc... Ce qui reponsabilise et aide à prendre des décisions éclairées
+
+Je vous invite à regarder cette [super présentation des Codeurs en Libertés](https://video.passageenseine.fr/videos/watch/a6a71871-7dd3-4f9e-bd6e-3893cdb46c88) qui approfondit les quelques éléments de reflexion évoqués ici.
+
+# Besoin de sens
+Framasoft, alliance libre, 
+
+# Redistribuer
+
+Bénéfices
+
+Mescenat libre
+https://mastodon.libre-entreprise.com/tags/M%C3%A9c%C3%A9natCodeLutin
+
+# L'aspect humain
+Bon ça aurait dû être le premier point puisque c'est toujours ce qui compte à la fin, mais j'avais envie de parler de logiciel et entreprise libres. En plus de ma sympathie pour les valeurs portées par Code Lutin ainsi que du mescenat, plusieurs facteurs humain ont joué. Premièrement, j'ai suivi plusieurs Lutin sur twitter, et j'ai été immédiatement intrigués par la diversité des profils (Geeks, fan de comics, de rugby, de vélo) et les récentes conférences des lutins (notamment une portant sur le [Développement Zéro Déchet](http://cbossard.page.nuiton.org/presentation-dev-zero-dechet/#1), vous pouvez [le forker](/forkme/) qui m'a beaucoup intéressé). Lors des différents entretiens techniques que j'ai passé pendant le processus d'embauche, j'ai pu parler avec un pas mal de lutins. Par rapport aux autres boites chez lesquelles j'avais postulé, j'ai tout de suite senti une diversité de profil (âge, sexe, expériences), un discours et un "esprit" qui différait grandement de ce que j'avais vu ailleurs.
+Il est difficile d'être pleinement rationnel quand il s'agit de choisir où on va passer des milliers d'heures de sa vie, et c'est ce point qui a fini par me décider.
+
+# Pour aller plus loin
+Une liste des liens évoqués au long de cet article
+* [Codeur-se-s de tous pays, unissez-vous](https://video.passageenseine.fr/videos/watch/a6a71871-7dd3-4f9e-bd6e-3893cdb46c88) par Codeurs en Liberté
+* [Frédéric Lordon et la notion d'angle Alpha](https://www.youtube.com/watch?v=87sEeVj057Q)
