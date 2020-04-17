@@ -12,4 +12,4 @@ Pour prendre en main Jekyll je vous invite à suivre les tutos suivants:
 * [Jekyll QuickStart](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) pour démarrer avec Jekyll
 * [Minimal Mistakes - QuickStart Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) pour installer le plugin Minimal Mistakes (qui contient plein de themes prêts à l'emploi et customizables)
 * [How Jekky Works](http://jekyllbootstrap.com/lessons/jekyll-introduction.html) pour comprendre comment Jekyll fonctionne
-* Pour lancer le site en local : `bundle exec jekyll serve --incremental`
+* Pour lancer le site en local : `bundle exec jekyll serve [--incremental] [--future]`

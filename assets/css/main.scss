@@ -10,9 +10,12 @@
 
 // Justify text (we're no beast)
 .page__content {
-    p {
+    p, ul, li, ol {
         text-align: justify;
-        font-size: 0.75em !important;
+        font-size: 0.8em !important;
+    }
+    ul, li, ol {
+        font-size: 0.9em !important;
     }
 }
 
