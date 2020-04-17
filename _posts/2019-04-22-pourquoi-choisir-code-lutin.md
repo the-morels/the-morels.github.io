@@ -1,16 +1,17 @@
 ---
 title: "Pourquoi j'ai choisi Code Lutin ?"
 date: 2020-04-22T20:34:30-04:00
+toc: true
+toc_label: "Sur cette page"
 categories:
-  - linux
+  - entreprise_libre
+  - logiciel_libre
 ---
-Bienvenue sur ce blog !
-
-Dans quelques jours, je rejoins les équipes de [Code Lutin](https://codelutin.com) (je travaillais depuis 6 ans en tant que CTO d'iRéalité - [tout est détaillé là](/about/). Il me semble intéressant, en guise de premier article et pour qu'on apprenne à se connaitre, de revenir sur les raisons qui m'ont poussées à rejoindre Code Lutin, et par la même le [réseau Libre-Entreprise](http://www.libre-entreprise.org/) et [Alliance Libre](http://www.alliance-libre.org/), entre autres associations auxqulles participe Code Lutin.
+Dans quelques jours, je rejoins les équipes de [Code Lutin](https://codelutin.com) (je travaillais depuis 6 ans en tant que CTO d'iRéalité - [tout est détaillé là](/about/)). Il me semble intéressant, en guise de premier article et pour qu'on apprenne à se connaitre, de revenir sur les raisons qui m'ont poussées à rejoindre Code Lutin, et par la même le [réseau Libre-Entreprise](http://www.libre-entreprise.org/) et [Alliance Libre](http://www.alliance-libre.org/), entre autres associations dans lesquelles Code Lutin est acteur.
 
 Mon objectif avec ce post est de vous amener, vous, lecteur que je suppose développeur, à vous interroger sur certains aspects de nos conditions de travail et à la finalité ce que nous produisons. Je vais essayer de rester concis, et de m'en tenir aux réflexions qui me semblent applicables à d'autres personnes, même si dans ce genre de choix de carrière beaucoup de facteurs plus personnels entrent évidemment en jeux.
 
-Disclaimer : il est certain que je changerais d'avis sur bien des points que j'aborde ici, mais justement je pense que c'est le moment rêvé pour écrire cet article, tant que je suis nimbé de l'ignorance des profanes :)
+Disclaimer : il est certain que je changerais d'avis sur bien des points que j'aborde ici, voir que mes propos sembleront stupides pour des devs évoluant dans le libre depuis plus longtemps. Mais justement, je pense que c'est le moment rêvé pour écrire cet article, tant que je suis nimbé de l'ignorance des profanes :)
 
 Bonne lecture, n'hésitez pas à [suivre le tutoriel pour forker ce blog](/forkme/) si le design vous plait, et à me faire part de vos retours sur cet article.
 
