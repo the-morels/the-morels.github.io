@@ -10,19 +10,38 @@
 
 // Justify text (we're no beast)
 .page__content {
-    p, ul, li, ol {
+    p {
         text-align: justify;
         font-size: 0.8em !important;
     }
     ul, li, ol {
+        text-align: justify;
         font-size: 0.9em !important;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 0em !important;
+    }
+}
+.toc__menu {
+    li, a {
+        text-align: left;
+        font-size: 0.9em !important;
+    }
+    a {
+        padding: 0.25rem 0.5rem !important;
     }
 }
 
+
 // Responsive
-@media (min-width: 1281px) {
+@media (min-width: 1024px) {
+    .toc {
+        position: fixed;
+        margin-top:-50px;
+    }
 }
-@media (max-width: 1281px) {
+@media (max-width: 1000px) {
 }
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
