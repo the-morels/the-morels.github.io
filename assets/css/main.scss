@@ -3,20 +3,52 @@
 ---
 
 @charset "utf-8";
-// possible to override $link-color, $body-color, $$background-color, $text-color, $link-color and $masthead-link-color
+// possible to override $body-color, $$background-color, $text-color, $link-color and $masthead-link-color
 // Lutin colors
 // Orange: #f94e07
-// Green : #23a580
-
+// Light Green : #60e0b4
+// Dark Green : #4db190
+// Default was #00adb5
+$link-color: #60e0b4;
+$secondary-color: #fc5006;
+$background-color : #252a34;
 // Justify text (we're no beast)
+.themed_color {
+    color: $link-color;
+}
+.themed_color:hover {
+    color: $secondary-color !important;
+}
+.search__toggle {
+    color: $link-color !important;
+}
+.greedy-nav .visible-links a:hover {
+    color: white !important;
+}
+.greedy-nav .visible-links a:before {
+    background: $secondary-color!important;
+}
+
 .page__content {
     p {
         text-align: justify;
         font-size: 0.8em !important;
+        a:visited {
+            color: $link-color !important;
+        }
+        a:hover {
+            color:$secondary-color !important;
+        }
     }
     ul, li, ol {
         text-align: justify;
         font-size: 0.9em !important;
+        a:visited {
+            color: $link-color !important;
+        }
+        a:hover {
+            color:$secondary-color !important;
+        }
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -33,6 +65,15 @@
     }
 }
 
+.toc .active a {
+    background-color: $link-color !important;
+    color: $background-color !important;
+}
+
+.nav__title {
+    background-color: $link-color !important;
+    color: $background-color !important;
+}
 
 // Responsive
 @media (min-width: 1024px) {

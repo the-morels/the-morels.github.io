@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Free as a bird
+title: "<span class='themed_color'>Free</span> as a bird <i class='fab fa-linux stroked_color'></i>"
 email: lagardealex@gmail.com
-subtitle: "Un blog sur les logiciels et entreprises libres"
+subtitle: "Blog sur les logiciels et entreprises <span class='themed_color'>libres</span>"
  
 twitter_username: alex_morel_
 github_username: alexsedlex
