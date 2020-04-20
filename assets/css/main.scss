@@ -14,51 +14,41 @@ $secondary-color: #fc5006;
 $background-color : #252a34;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes"; 
 
-// Justify text (we're no beast)
-.themed_color {
-    color: $link-color;
-}
-.themed_color:hover {
-    color: $secondary-color !important;
-}
-.search__toggle {
-    color: $link-color !important;
-}
-.greedy-nav .visible-links a:hover {
-    color: white !important;
-}
-.greedy-nav .visible-links a:before {
-    background: $secondary-color!important;
-}
+/*****************************************************************
+*                   PADDINGS & OTHERS                            *
+*****************************************************************/
 
+// Justify text, we're no beasts
 .page__content {
     p {
         text-align: justify;
-        font-size: 0.8em !important;
-        a:visited {
-            color: $link-color;
-        }
-        a:hover {
-            color:$secondary-color !important;
-        }
     }
     ul, li, ol {
         text-align: justify;
-        font-size: 0.9em !important;
-        a:visited {
-            color: $link-color;
-        }
-        a:hover {
-            color:$secondary-color !important;
-        }
     }
-
     h1, h2, h3, h4, h5, h6 {
         margin-top: 0em !important;
     }
 }
+
+// Reduce footer size it's hudge
+.page__footer footer {
+    margin-top: 10px;
+    padding: 0 1em 0.5em;
+    text-align: center;
+}
+
+// Increase avatar size and remove border
+.author__avatar img {
+    max-width: 200px;
+    min-width: 100px;
+    border-radius: 0%;
+    border: 0px solid black;
+}
+
+// Table of content
 .toc__menu {
     li, a {
         text-align: left;
@@ -78,6 +68,68 @@ $background-color : #252a34;
     }
 }
 
+/*****************************************************************
+*                        COLOR STUFF                             *
+******************************************************************/
+.themed_color {
+    color: $link-color;
+}
+.themed_color:hover {
+    color: $secondary-color !important;
+}
+.search__toggle {
+    color: $link-color !important;
+}
+.greedy-nav .visible-links a:hover {
+    color: white !important;
+}
+.greedy-nav .visible-links a:before {
+    background: $secondary-color!important;
+}
+strong {
+    color: $link-color;
+}
+blockquote {
+    border-color: $link-color;
+}
+.author__urls-wrapper .author__urls {
+    span.label:hover {
+        color: $secondary-color !important;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration-color: $secondary-color !important;
+        text-decoration: underline;
+    }
+}
+.archive__item {
+    text-align: justify;
+    a:visited {
+        color: $link-color;
+    }
+    a:hover {
+        color:$secondary-color !important;
+    }
+}
+
+.page__content {
+    p {
+        a:visited {
+            color: $link-color;
+        }
+        a:hover {
+            color:$secondary-color !important;
+        }
+    }
+    ul, li, ol {
+        a:visited {
+            color: $link-color;
+        }
+        a:hover {
+            color:$secondary-color !important;
+        }
+    }
+}
 .toc .active a {
     background-color: $link-color !important;
     color: $background-color !important;
@@ -87,17 +139,10 @@ $background-color : #252a34;
     background-color: $link-color !important;
     color: $background-color !important;
 }
-
-.page__footer footer {
-    margin-top: 10px;
-    padding: 0 1em 0.5em;
-    text-align: center;
-}
-.btn--inverse {
-    background-color: $link-color !important;
-    color: $background-color !important;
-}
-// Responsive
+/*****************************************************************
+*                        RESPONSIVE                              *
+******************************************************************/
+// big screens
 @media (min-width: 1024px) {
     .archive {
         padding-right: 100px !important;
@@ -106,7 +151,6 @@ $background-color : #252a34;
         position: fixed;
         margin-top:-50px;
     }
-
     .site-title {
         position: fixed;
     }
@@ -119,8 +163,22 @@ $background-color : #252a34;
             font-size: 48px;
         }
     }
+    p {        
+        font-size: 0.8em !important;
+    }
+    ul, li, ol {
+        font-size: 0.9em !important;
+    }
 }
+// Mobile
 @media (max-width: 1023px) {
+    // Font-size
+    p {        
+        font-size: 1em !important;
+    }
+    ul, li, ol {
+        font-size: 1em !important;
+    }
     // Reduce ul & ol padding left
     ul, ol {
         padding-inline-start: 5px;
@@ -131,11 +189,9 @@ $background-color : #252a34;
             font-size: 35px;
         }
     }
-}
-
-.author__avatar img {
-    max-width: 200px;
-    min-width: 100px;
-    border-radius: 0%;
-    border: 0px solid black;
+    // Contact button
+    .btn--inverse {
+        background-color: $link-color !important;
+        color: $background-color !important;
+    }
 }

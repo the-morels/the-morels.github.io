@@ -4,6 +4,6 @@ main:
   - title: "Par Catégories"
     url: /categories/
   - title: "Liens utiles"
-    url: "/resources/"
+    url: "/liens-utiles/"
   - title: "Forkez-moi !"
     url: "/forkme/"
