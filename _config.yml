@@ -16,7 +16,7 @@
 locale: "fr-FR"
 title: "<span class='themed_color'>Free</span> as a bird <i class='fab fa-linux stroked_color'></i>"
 email: lagardealex@gmail.com
-subtitle: "Blog sur les logiciels et entreprises <span class='themed_color'>libres</span>"
+subtitle: "logiciels et entreprises <span class='themed_color'>libres</span>"
  
 twitter_username: alex_morel_
 github_username: alexsedlex
@@ -59,7 +59,6 @@ plugins:
 author:
   name   : "Alex Morel"
   avatar : "/assets/images/free_as_a_bird_amorel.gif"
-  bio    : "Dev à Code Lutin"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

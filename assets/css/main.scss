@@ -121,6 +121,11 @@ $background-color : #252a34;
     }
 }
 @media (max-width: 1023px) {
+    // Reduce ul & ol padding left
+    ul, ol {
+        padding-inline-start: 5px;
+    }
+    // Lower linux size
     .masthead {
         .fa-linux {
             font-size: 35px;

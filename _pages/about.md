@@ -3,13 +3,13 @@ permalink: /about/
 title: "À propos de ce blog"
 toc: true
 ---
-Ce site applique les principes du [Développement Zéro Déchet](http://cbossard.page.nuiton.org/presentation-dev-zero-dechet/#1), vous pouvez [le forker](/forkme/) pour y contribuer des posts et/ou créer votre propre blog.
+Ce site est un site perso et n'exprime que le point de vue de son auteur. On y applique les principes du [Développement Zéro Déchet](http://cbossard.page.nuiton.org/presentation-dev-zero-dechet/#1), vous pouvez [le forker](/forkme/) pour y contribuer des posts et/ou créer votre propre blog.
 
-Vous pourrez suivre ici les tribulations d'un développeurs qui découvre Linux, les logiciels libres et les entreprises libres.
+Vous pourrez suivre ici les tribulations d'un développeur qui découvre Linux, les logiciels libres et les entreprises libres.
 
 ## Entreprise libre ? Kézako ?
 
-Code Lutin (ma boite) fait partie du réseau [Libre Entreprise](https://www.libre-entreprise.org/charte), dont je vous invite à consulter la charte qui présente très bien le concept d'entreprise libre.
+Code Lutin (ma boîte) fait partie du réseau [Libre Entreprise](https://www.libre-entreprise.org/charte), dont je vous invite à consulter la charte qui présente très bien le concept d'entreprise libre.
 
 Pour résumer et d'après ma compréhension, une Entreprise libre est un groupe auto-géré d'individus qui lient leur sort au sein d'une structure à taille humaine pour que chacun puisse choisir sa façon de vivre et de travailler. On y est particulièrement vigilant à la tenue démocratique de l'entreprise (on vote, 1 personne = 1 voix), au partage équilibré du chiffre d'affaire (à Code Lutin, rémunération strictement équivalente entre les lutins) et à la transparence (toutes les décisions et données sont à disposition de tous les membres de l'entreprise).
 
