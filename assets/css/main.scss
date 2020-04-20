@@ -12,10 +12,11 @@
 $link-color: #60e0b4;
 $secondary-color: #fc5006;
 $background-color : #252a34;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 // Justify text (we're no beast)
-.fa-linux {
-    font-size: 48px;
-}
 .themed_color {
     color: $link-color;
 }
@@ -37,7 +38,7 @@ $background-color : #252a34;
         text-align: justify;
         font-size: 0.8em !important;
         a:visited {
-            color: $link-color !important;
+            color: $link-color;
         }
         a:hover {
             color:$secondary-color !important;
@@ -47,7 +48,7 @@ $background-color : #252a34;
         text-align: justify;
         font-size: 0.9em !important;
         a:visited {
-            color: $link-color !important;
+            color: $link-color;
         }
         a:hover {
             color:$secondary-color !important;
@@ -66,6 +67,12 @@ $background-color : #252a34;
     a {
         padding: 0.25rem 0.5rem !important;
     }
+    a:visited {
+        color:white !important;
+    }
+    a:visited:hover {
+        color:$secondary-color !important;
+    }
     a:hover {
         color:$secondary-color !important;
     }
@@ -80,8 +87,21 @@ $background-color : #252a34;
     background-color: $link-color !important;
     color: $background-color !important;
 }
+
+.page__footer footer {
+    margin-top: 10px;
+    padding: 0 1em 0.5em;
+    text-align: center;
+}
+.btn--inverse {
+    background-color: $link-color !important;
+    color: $background-color !important;
+}
 // Responsive
 @media (min-width: 1024px) {
+    .archive {
+        padding-right: 100px !important;
+    }
     .toc {
         position: fixed;
         margin-top:-50px;
@@ -94,11 +114,19 @@ $background-color : #252a34;
         position: fixed;
         margin-top: 80px;
     }
+    .masthead {
+        .fa-linux {
+            font-size: 48px;
+        }
+    }
 }
 @media (max-width: 1023px) {
+    .masthead {
+        .fa-linux {
+            font-size: 35px;
+        }
+    }
 }
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
 
 .author__avatar img {
     max-width: 200px;

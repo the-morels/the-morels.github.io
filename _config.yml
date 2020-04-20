@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "fr-FR"
 title: "<span class='themed_color'>Free</span> as a bird <i class='fab fa-linux stroked_color'></i>"
 email: lagardealex@gmail.com
 subtitle: "Blog sur les logiciels et entreprises <span class='themed_color'>libres</span>"

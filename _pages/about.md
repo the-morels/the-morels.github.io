@@ -2,7 +2,6 @@
 permalink: /about/
 title: "À propos de ce blog"
 toc: true
-toc_label: "Sur cette page"
 ---
 Ce site applique les principes du [Développement Zéro Déchet](http://cbossard.page.nuiton.org/presentation-dev-zero-dechet/#1), vous pouvez [le forker](/forkme/) pour y contribuer des posts et/ou créer votre propre blog.
 
