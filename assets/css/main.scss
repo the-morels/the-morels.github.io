@@ -13,6 +13,9 @@ $link-color: #60e0b4;
 $secondary-color: #fc5006;
 $background-color : #252a34;
 // Justify text (we're no beast)
+.fa-linux {
+    font-size: 48px;
+}
 .themed_color {
     color: $link-color;
 }
@@ -63,6 +66,9 @@ $background-color : #252a34;
     a {
         padding: 0.25rem 0.5rem !important;
     }
+    a:hover {
+        color:$secondary-color !important;
+    }
 }
 
 .toc .active a {
@@ -74,15 +80,22 @@ $background-color : #252a34;
     background-color: $link-color !important;
     color: $background-color !important;
 }
-
 // Responsive
 @media (min-width: 1024px) {
     .toc {
         position: fixed;
         margin-top:-50px;
     }
+
+    .site-title {
+        position: fixed;
+    }
+    .sidebar.sticky {
+        position: fixed;
+        margin-top: 80px;
+    }
 }
-@media (max-width: 1000px) {
+@media (max-width: 1023px) {
 }
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

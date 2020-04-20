@@ -1,9 +1,9 @@
 main:
-  - title: "Présentation"
+  - title: "A propos du blog"
     url: /about/
-  - title: "Catégories"
+  - title: "Par Catégories"
     url: /categories/
-  - title: "Ressources"
+  - title: "Liens utiles"
     url: "/resources/"
   - title: "Forkez-moi !"
     url: "/forkme/"
