@@ -48,7 +48,25 @@ $background-color : #252a34;
     border: 0px solid black;
 }
 
-// Table of content
+figure {
+    img {
+        max-width:500px;
+        display: block;
+        clear:both;
+        margin: 0 auto;
+    }
+    figcaption {
+        width: 100%;
+        display: block;
+        clear:both;
+        text-align:center;
+        font-style: italic;
+        font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    }
+}
+/*****************************************************************
+*                       TABLE OF CONTENT                         *
+******************************************************************/
 .toc__menu {
     li, a {
         text-align: left;
@@ -169,6 +187,11 @@ blockquote {
     ul, li, ol {
         font-size: 0.9em !important;
     }
+    figure {
+        figcaption {
+            font-size: 0.8em !important;
+        }
+    }
 }
 // Mobile
 @media (max-width: 1023px) {
@@ -178,6 +201,11 @@ blockquote {
     }
     ul, li, ol {
         font-size: 1em !important;
+    }
+    figure {
+        figcaption {
+            font-size: 1em !important;
+        }
     }
     // Reduce ul & ol padding left
     ul, ol {
