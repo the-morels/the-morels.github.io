@@ -50,7 +50,7 @@ $background-color : #252a34;
 
 figure {
     img {
-        max-width:500px;
+        max-width: 650px;
         display: block;
         clear:both;
         margin: 0 auto;
@@ -89,6 +89,9 @@ figure {
 /*****************************************************************
 *                        COLOR STUFF                             *
 ******************************************************************/
+.navicon:before, .navicon:after, .navicon {
+    background-color: $link-color !important;
+}
 .themed_color {
     color: $link-color;
 }
@@ -203,6 +206,9 @@ blockquote {
         font-size: 1em !important;
     }
     figure {
+        img {
+            max-width: 400px;
+        }
         figcaption {
             font-size: 1em !important;
         }
@@ -218,8 +224,9 @@ blockquote {
         }
     }
     // Contact button
-    .btn--inverse {
-        background-color: $link-color !important;
-        color: $background-color !important;
-    }
+    .author__urls-wrapper { display:none}
+    .author__avatar { width: 100vw}
+    .author__avatar img { max-width:120px; display:block;margin: 0 auto;}
+    .author__content { display:none;}
+    //width: 100%; text-align:center;}
 }
