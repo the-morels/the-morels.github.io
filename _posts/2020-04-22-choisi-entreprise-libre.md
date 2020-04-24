@@ -5,6 +5,8 @@ toc: true
 categories:
   - entreprise_libre
   - logiciel_libre
+header:
+  teaser: /assets/images/post1/teaser.gif
 ---
 Dans quelques jours, j'aurais le plaisir de rejoindre les équipes de [Code Lutin](https://codelutin.com) (je travaillais depuis 6 ans en tant que CTO d'iRéalité - [tout est détaillé là](/about/#a-propos-de-moi)). Il me semble intéressant, en guise de premier article et pour qu'on apprenne à se connaitre, de revenir sur les raisons qui m'ont poussées à rejoindre cette boîte, et par là même le [réseau Libre-Entreprise](http://www.libre-entreprise.org/) et l'[April](https://www.april.org/), entre autres associations au sein desquelles agit Code Lutin.
 
@@ -89,7 +91,7 @@ Code Lutin a une autre façon de fonctionner (bien sûr la répartition est vot�
 * **Mécénat** auprès d'association oeuvrant dans le libre sur des sujets sortant du domaine d'expertise de Code Lutin ([liste des dons disponible ici](https://mastodon.libre-entreprise.com/tags/M%C3%A9c%C3%A9natCodeLutin)) : déGAFAMisation des OS mobiles, réseau social libre mastodon, fournisseurs d'accès à internet assocatifs, associations de vulgarisation autour du libre, collectifs de défense contre la censure...
 * **Redistribution** égalitaire auprès des salariés
 
-Je pense qu'il est très important d'acter le fait qu'actuellement la richesse produite par les entreprises n'est pas assez redistribuée et qu'elle finit bien trop dans les bulles spéculatives et pas assez dans l'économie réelle (ne parlons même pas de projets sociaux). D'un autre côté, beaucoup d'associations ont le savoir-faire mais ont besoin de fonds supplémentaires pour pouvoir être ambitieuses dans leur action et ne pas se baser que sur le bénévolat. C'est pourquoi il me semble très intéressant de déployer à échelle d'entreprise une politique de mécénat. C'est d'ailleurs un tweet de Code Lutin à propos d'un don fait à des associations qui m'a poussé à les contacter en premier lieu.
+Je pense qu'il est très important d'acter le fait qu'actuellement la richesse produite par les entreprises n'est pas assez redistribuée et qu'elle finit bien trop dans les bulles spéculatives et pas assez dans l'économie réelle (ne parlons même pas de projets sociaux). D'un autre côté, beaucoup d'associations ont le savoir-faire mais ont besoin de fonds supplémetaires pour pouvoir être ambitieuses dans leur action et ne pas se baser que sur le bénévolat. C'est pourquoi il me semble très intéressant de déployer à échelle d'entreprise une politique de mécénat. C'est d'ailleurs un tweet de Code Lutin à propos d'un don fait à des associations qui m'a poussé à les contacter en premier lieu.
 
 ## L'aspect humain
 Bon je pense avoir fait le tour des raisons intellectuelles qui m'ont poussé à choisir de quitter mon job actuel et tenter l'aventure d'une entreprise libre qui fait du libre.

@@ -14,6 +14,11 @@ Comme tout arrivant dans la Linux-Sphère se sent vite assailli d'informations (
 * [Cours sur Linux d'OpenClassRoom](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux
 ) Hyper-accessible et assez complet, excellente introduction
 
+
+## Raccourcis utiles
+
+Ma liste de racourcis & tips que j'apprends au fur et à mesure est dispo [ici](/linux_tips)
+
 # Entreprises Libres
 
 * **Fréderic Lordon** - la [vidéo d'Usul vulgarisant la pensée de Lordon](https://peertube.heraut.eu/videos/watch/8af79fce-4c47-4809-ae7f-74386b52eb1a) est incontournable. On y parle de désir maitre des entreprises, de libre arbitre, de Spinoza, c'est juste passionnant et très digeste, comme toute la série "Nos chers contemporains" que je vous conseille les yeux fermés
