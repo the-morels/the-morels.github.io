@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "Par Catégories"
     url: /categories/
-  - title: "Liens utiles"
+  - title: "Slides et liens"
     url: "/liens-utiles/"
   - title: "Forkez-moi !"
     url: "/forkme/"

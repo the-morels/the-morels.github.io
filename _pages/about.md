@@ -3,21 +3,9 @@ permalink: /about/
 title: "À propos de ce blog"
 toc: true
 ---
-Ce site est un site perso et n'exprime que le point de vue de son auteur. On y applique les principes du [Développement Zéro Déchet](http://cbossard.page.nuiton.org/presentation-dev-zero-dechet/#1), vous pouvez [le forker](/forkme/) pour y contribuer des posts et/ou créer votre propre blog.
+Ce site est un site perso et n'exprime que le point de vue de son auteur. Vous pouvez [le forker](/forkme/) pour y contribuer des posts et/ou créer votre propre blog.
 
-Vous pourrez suivre ici les tribulations d'un développeur qui découvre Linux, les logiciels libres et les entreprises libres.
-
-## Entreprise libre ? Kézako ?
-
-Code Lutin (ma boîte) fait partie du réseau [Libre Entreprise](https://www.libre-entreprise.org/charte), dont je vous invite à consulter la charte qui présente très bien le concept d'entreprise libre.
-
-Pour résumer et d'après ma compréhension, une Entreprise libre est un groupe auto-géré d'individus qui lient leur sort au sein d'une structure à taille humaine pour que chacun puisse choisir sa façon de vivre et de travailler. On y est particulièrement vigilant à la tenue démocratique de l'entreprise (on vote, 1 personne = 1 voix), au partage équilibré du chiffre d'affaire (à Code Lutin, rémunération strictement équivalente entre les lutins) et à la transparence (toutes les décisions et données sont à disposition de tous les membres de l'entreprise).
-
-C'est un principe qui m'attire depuis longtemps, ayant toujours trouvé les liens hiérarchiques peu propices à l'épanouissement personnel et collectif (que l'on soit en haut ou en bas de la pyramide). Je pense aborder dans ce blog mon expérience quotidienne en tant que membre d'une entreprise libre, qu'il s'agisse de ses avantages ou de ses écueuils.
-
-## Logiciels Libres ? Pourquoi ?
-
-Les logiciels libres peuvent, selon moi, être un des piliers permettant la construction de solutions pérennes et d'un développement logiciel durable, loin de la course énergivore à l'innovation ou liberticide au tracking. Ma pensée est encore en construction sur ce sujet, il s'agira probablement d'un des thèmes abordés régulièrement dans ce blog. [Ce post de Framasoft](https://framablog.org/2020/04/02/prendre-de-la-hauteur/) me semble être un bon point de départ pour réfléchir au rôle du libre.
+Mon blog professionel est disponible ici (http://amorel.page.nuiton.org/free-as-a-bird/).
 
 ## A propos de moi
 
