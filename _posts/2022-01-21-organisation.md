@@ -5,6 +5,6 @@ toc: true
 categories:
   - android
 header:
-  teaser: /assets/images/post1/teaser.gif
+  teaser: /assets/images/teaser1.png"
 ---
 C'est aux chalets  de l'oust gars.

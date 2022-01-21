@@ -5,6 +5,6 @@ toc: true
 categories:
   - android
 header:
-  teaser: /assets/images/post1/teaser.gif
+  teaser: /assets/images/teaser2.png
 ---
 Vous voulez faire de l'accrobranche ? Du lazer game ? Du twister tout nu ? C'est possible ! Il faudrait juste réserver, voici des liens :

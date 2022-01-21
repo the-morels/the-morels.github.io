@@ -58,7 +58,7 @@ plugins:
 
 author:
   name: "The Morels"
-  avatar: "/assets/images/free_as_a_bird_amorel.gif"
+  avatar: "/assets/images/banner.png"
   links:
     - label: "Soundcloud"
       icon: "fab fa-soundcloud"
