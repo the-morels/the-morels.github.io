@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "fr-FR"
-title: "Alex Morel - blog perso"
+title: "The Morels"
 email: lagardealex@gmail.com
-subtitle: "Développement d'<span class='themed_color'>applications mobiles</span>"
- 
+subtitle: "10 Years of Magic Mystery Tour"
+
 twitter_username: alex_morel_
 github_username: alexsedlex
 minimal_mistakes_skin: dark
@@ -57,33 +57,18 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alex Morel"
-  avatar : "/assets/images/free_as_a_bird_amorel.gif"
+  name: "The Morels"
+  avatar: "/assets/images/free_as_a_bird_amorel.gif"
   links:
-    - label: "Blog pro"
-      icon: "fas fa-id-card"
-      url: "http://amorel.page.nuiton.org/free-as-a-bird/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/alex_morel_"
     - label: "Soundcloud"
       icon: "fab fa-soundcloud"
       url: "https://soundcloud.com/user-651566508"
-    - label: "Forkez ce site!"
-      icon: "fas fa-code-branch"
-      url: "/forkme/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/alex_morel_"
     - label: "Soundcloud"
       icon: "fab fa-soundcloud"
       url: "https://soundcloud.com/user-651566508"
-    - label: "Forkez ce site!"
-      icon: "fas fa-code-branch"
-      url: "/forkme/"
 
 defaults:
   # _posts
