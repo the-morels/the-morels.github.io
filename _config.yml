@@ -62,16 +62,7 @@ author:
   links:
     - label: "Soundcloud"
       icon: "fab fa-soundcloud"
-      url: "https://soundcloud.com/user-651566508"
-    - label: "Youtube"
-      icon: "fab fa-youtube"
-      url: "https://www.youtube.com/watch?v=-fRVdkEoDDg"
-
-footer:
-  links:
-    - label: "Soundcloud"
-      icon: "fab fa-soundcloud"
-      url: "https://soundcloud.com/user-651566508"
+      url: "https://soundcloud.com/user-651566508/hey-on-fait-un-jeu-dtise"
     - label: "Youtube"
       icon: "fab fa-youtube"
       url: "https://www.youtube.com/watch?v=-fRVdkEoDDg"
