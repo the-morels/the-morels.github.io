@@ -12,5 +12,5 @@ Le festival se déroulera aux <a href="https://quelneuc-aventures-forest.fr/les-
 {% include figure image_path="/assets/images/teaser1.png" caption="Tiago Paul Albus, pianiste de pouce légendaire de The Morels" %}
 
 <p>
-C'est aux chalets de l'oust gros
+Suite des détails pratiques : comment y aller, quoi ramener, les couchages toussa
 </ul>
