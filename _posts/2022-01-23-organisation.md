@@ -24,6 +24,9 @@ Le festival se déroulera aux <a href="https://quelneuc-aventures-forest.fr/les-
 {% include figure image_path="/assets/images/teaser1.png" caption="Tiago Paul Albus, pianiste de pouce légendaire de The Morels" %}
 
 <h2>Programme complet officiel</h2>
+
+{% include figure image_path="/assets/images/10-years-horaires-small2.png" caption="Programme officiel" %}
+
   <h3>Vendredi </h3>
   <ul>
     <li><b>18h  : </b>Accueil des festivaliers</li>
