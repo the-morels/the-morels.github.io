@@ -4,6 +4,10 @@ date: 2020-04-26T09:12:30-04:00
 toc: false
 header:
   teaser: /assets/images/teaser1.png
+gallery_prog:
+  - url: /assets/images/10-years-horaires-small2.png
+    image_path: /assets/images/10-years-horaires-small2.png
+    caption: "Programme officiel"
 ---
 
 <h2>Où et Quand ?</h2>
@@ -23,9 +27,10 @@ Le festival se déroulera aux <a href="https://quelneuc-aventures-forest.fr/les-
 
 {% include figure image_path="/assets/images/teaser1.png" caption="Tiago Paul Albus, pianiste de pouce légendaire de The Morels" %}
 
-<h2>Programme complet officiel</h2>
 
-{% include figure image_path="/assets/images/10-years-horaires-small2.png" caption="Programme officiel" %}
+{% include gallery id="gallery_prog" caption="Programme officiel" %}
+
+<h2>Programme complet officiel</h2>
 
   <h3>Vendredi </h3>
   <ul>
